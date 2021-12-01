@@ -40,5 +40,6 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 |Code Quality Score|Code Grade|Codacy|
 |:--:|:--:|:--:|
+|![Code Quality Score](https://api.codiga.io/project/30017/score/svg)|![Code Grade](https://api.codiga.io/project/30017/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/62503ea0dee44bc3ab92614946c3cdb3)](https://www.codacy.com/gh/satyendra11111/M2_Embedded_Heat-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=satyendra11111/M2_Embedded_Heat-Control-System&amp;utm_campaign=Badge_Grade)|
 
 

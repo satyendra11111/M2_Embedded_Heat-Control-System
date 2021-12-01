@@ -36,6 +36,11 @@ Below shows two images where in the 1st image shows the status of the simulation
 * The digitized temperature input is visualized using Pulse Width Modulation.
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
+### CI and Code Quality
+
+|Code Quality Score|Code Grade|Codacy|
+|:--:|:--:|:--:|
+|![Code Quality Score](https://api.codiga.io/project/30146/score/svg)|![Code Grade](https://api.codiga.io/project/30146/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/16717604904c4660bd6d2c39bced1115)](https://www.codacy.com/gh/VatsalKr/M2_Embedded_Temperature_Controlled_Car_Seats/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VatsalKr/M2_Embedded_Temperature_Controlled_Car_Seats&amp;utm_campaign=Badge_Grade)|
 
 
 

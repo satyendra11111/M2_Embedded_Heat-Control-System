@@ -40,7 +40,5 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 |Code Quality Score|Code Grade|Codacy|
 |:--:|:--:|:--:|
-|![Code Quality Score](https://api.codiga.io/project/30146/score/svg)|![Code Grade](https://api.codiga.io/project/30146/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/16717604904c4660bd6d2c39bced1115)](https://www.codacy.com/gh/VatsalKr/M2_Embedded_Temperature_Controlled_Car_Seats/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VatsalKr/M2_Embedded_Temperature_Controlled_Car_Seats&amp;utm_campaign=Badge_Grade)|
-
 
 

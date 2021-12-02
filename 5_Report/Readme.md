@@ -1,4 +1,4 @@
-# M2_Embedded_Temperature_Controlled_Car_Seats
+# M2_Embedded_Temperature_Controlled_System
 Project Based On The Heat Control System Of Car Seat
 The Temperature control system in this project is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the control system are done on a microcontroller called Atmega328.
 Heat Control System
@@ -92,7 +92,7 @@ The corresponding temperature values based on the digitized temperature input is
 
 /**
  * @file HCS_Main.c
- * @author Rampoojan (rampoojanpatel1997@gmail.com)
+ * @author Satyendra K (satya10011997@gmail.com)
  * @brief The main program to execute the HCS of a seat inside a car
  * @version 0.1
  * @date 2021-11-30

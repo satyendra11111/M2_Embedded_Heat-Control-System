@@ -38,8 +38,8 @@ Below shows two images where in the 1st image shows the status of the simulation
 
 ### CI  And  Code Quality 
 
-|Code Quality Score|Code Grade|Codacy|CI|Compile Linux|Git Inspector|Linux c/c++ CI|Cpp Check|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Code Quality Score|Code Grade|Codacy|CI|Compile Linux|Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 |![Code Quality Score](https://api.codiga.io/project/30017/score/svg)|![Code Grade](https://api.codiga.io/project/30017/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/62503ea0dee44bc3ab92614946c3cdb3)](https://www.codacy.com/gh/satyendra11111/M2_Embedded_Heat-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=satyendra11111/M2_Embedded_Heat-Control-System&amp;utm_campaign=Badge_Grade)|[![CI](https://github.com/satyendra11111/M2_Embedded_Heat-Control-System/actions/workflows/main.yml/badge.svg)](https://github.com/satyendra11111/M2_Embedded_Heat-Control-System/actions/workflows/main.yml)|[![Compile-Linux](https://github.com/VatsalKr/M2_Embedded_Temperature_Controlled_Car_Seats/actions/workflows/compile.yml/badge.svg)](https://github.com/satyendra11111/M2_Embedded_Heat-Control-System/actions/workflows/compile.yml)|[![cppcheck](https://github.com/satyendra11111/M2_Embedded_Heat-Control-System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/satyendra11111/M2_Embedded_Heat-Control-System/actions/workflows/CodeQuality.yml)|
 
 

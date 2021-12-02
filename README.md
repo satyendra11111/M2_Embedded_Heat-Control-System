@@ -36,9 +36,9 @@ Below shows two images where in the 1st image shows the status of the simulation
 * The digitized temperature input is visualized using Pulse Width Modulation.
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
-### CI and Code Quality
+### CI, Code Quality And Code Factor
 
-|Code Quality Score|Code Grade|Codacy|
+|Code Quality Score|Code Grade|Codacy|Code Factor|
 |:--:|:--:|:--:|:--:|
 |![Code Quality Score](https://api.codiga.io/project/30017/score/svg)|![Code Grade](https://api.codiga.io/project/30017/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/62503ea0dee44bc3ab92614946c3cdb3)](https://www.codacy.com/gh/satyendra11111/M2_Embedded_Heat-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=satyendra11111/M2_Embedded_Heat-Control-System&amp;utm_campaign=Badge_Grade)|[![CodeFactor](https://www.codefactor.io/repository/github/satyendra11111/m2_embedded_heat-control-system/badge)](https://www.codefactor.io/repository/github/satyendra11111/m2_embedded_heat-control-system)|
 

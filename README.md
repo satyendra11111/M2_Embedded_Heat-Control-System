@@ -36,7 +36,7 @@ Below shows two images where in the 1st image shows the status of the simulation
 * The digitized temperature input is visualized using Pulse Width Modulation.
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
-### CI, Code Quality And Code Factor
+### CI  And  Code Quality 
 
 |Code Quality Score|Code Grade|Codacy|CI|Compile Linux|Git Inspector|Linux c/c++ CI|Cpp Check|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
